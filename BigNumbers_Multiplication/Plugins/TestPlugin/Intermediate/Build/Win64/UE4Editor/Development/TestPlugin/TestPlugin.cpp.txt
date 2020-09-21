@@ -1,0 +1,2 @@
+F:\UnrealProjects\Test\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\Definitions.TestPlugin.h
+F:\UnrealProjects\Test\Plugins\TestPlugin\Source\TestPlugin\Public\TestPlugin.h

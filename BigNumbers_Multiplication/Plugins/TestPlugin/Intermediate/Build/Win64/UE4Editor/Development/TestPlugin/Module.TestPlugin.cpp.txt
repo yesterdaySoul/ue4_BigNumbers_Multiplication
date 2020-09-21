@@ -1,0 +1,8 @@
+F:\UnrealProjects\Test\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\Definitions.TestPlugin.h
+F:/UnrealProjects/Test/Plugins/TestPlugin/Source/TestPlugin/Private/TestBPF.cpp
+F:\UnrealProjects\Test\Plugins\TestPlugin\Source\TestPlugin\Public\TestBPF.h
+F:\UnrealProjects\Test\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\TestPlugin\TestBPF.generated.h
+E:\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+E:\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+F:/UnrealProjects/Test/Plugins/TestPlugin/Source/TestPlugin/Private/TestPlugin.cpp
+F:\UnrealProjects\Test\Plugins\TestPlugin\Source\TestPlugin\Public\TestPlugin.h
